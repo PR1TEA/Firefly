@@ -3,8 +3,6 @@ title: 一些介绍和注意事项
 published: 2026-09-14
 tags: [说明, 关于我, 短篇]
 category: 在最后的秋天
-series: "在最后的秋天"
-seriesOrder: 2
 draft: false
 ---
 

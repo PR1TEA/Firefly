@@ -33,23 +33,14 @@ export const friendsConfig: FriendLink[] = [
 		enabled: true, // 是否启用
 	},
 	{
-		title: "Firefly Docs",
-		imgurl: "https://docs-firefly.cuteleaf.cn/logo.png",
-		desc: "Firefly主题模板文档",
-		siteurl: "https://docs-firefly.cuteleaf.cn",
-		tags: ["Docs"],
-		weight: 9,
-		enabled: true,
-	},
-	{
-		title: "Astro",
-		imgurl: "https://avatars.githubusercontent.com/u/44914786?v=4&s=640",
-		desc: "The web framework for content-driven websites. ⭐️ Star to support our work!",
-		siteurl: "https://github.com/withastro/astro",
-		tags: ["Framework"],
-		weight: 8,
-		enabled: true,
-	},
+    title: "鼠子",
+    imgurl: "https://blog.miomoe.cn/favicon.ico",
+    desc: "欢迎来到鼠子YuiNijika的朋友圈！",
+    siteurl: "https://blog.miomoe.cn/",
+    tags: ["Blog"],
+    weight: 10,
+    enabled: true,
+    },
 ];
 
 // 获取启用的友链并进行排序

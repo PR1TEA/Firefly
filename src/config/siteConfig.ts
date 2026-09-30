@@ -52,7 +52,7 @@ export const siteConfig: SiteConfig = {
 
 	// 站点描述
 	description:
-		"This is my firt blog,by firefly",
+		"PR1TEA's Blog,I AM PUTTING MYSELF TO THE FULLEST POSSIBLE USE.",
 
 	// 站点关键词
 	keywords: [
